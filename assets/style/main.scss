@@ -1,0 +1,76 @@
+// @import "../fonts/stylesheet.css";
+html {
+  scroll-behavior: smooth;
+  font-family: "Cairo", sans-serif !important;
+  
+}
+body {
+  width: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  font-family: "Cairo", sans-serif !important;
+  // background-color: #F6F6FF !important;
+  // .theme--light.v-application{
+  //   background-color: #F6F6FF !important;
+  // }
+  .v-application{
+    font-family: "Cairo", sans-serif !important;
+    .headline{
+      font-family: "Cairo", sans-serif !important;
+    }
+    * {
+      font-family: "Cairo", sans-serif !important;
+    }
+  }
+  // Arabic Style
+.v-application--is-rtl {
+  font-family: "Cairo", sans-serif !important;
+
+  * {
+    font-family: "Cairo", sans-serif !important;
+    // font-size: 12px;
+    direction: rtl;
+    // text-align: right !important;
+    // letter-spacing: 0px;
+  }
+  .text-start{
+    text-align: right !important;
+  }
+}
+// English Style
+.v-application--is-ltr {
+  * {
+    font-family: "Cairo", sans-serif !important;
+    // font-size: 12px;
+    direction: ltr;
+    // text-align: left !important;
+    // letter-spacing: 0px;
+  }
+  .text-start{
+    text-align: left !important;
+  }
+}
+}
+
+// Width
+.w-25 {
+  width: 25% !important;
+}
+.w-50 {
+  width: 50% !important;
+}
+.w-75 {
+  width: 75% !important;
+}
+.w-80 {
+  width: 80% !important;
+}
+.w-90 {
+  width: 90% !important;
+}
+.w-100 {
+  width: 100% !important;
+}
+.v-btn {
+  text-transform: none !important;
+}
