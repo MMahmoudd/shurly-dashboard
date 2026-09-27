@@ -13,10 +13,16 @@
         <v-row>
           <v-col md="6" cols="12">
             <label>
-              {{$t('categories.name')}}
+              {{$t('skills.name_ar')}}
             </label>
-            <v-text-field v-model="form.name" outlined dense :label="$t('categories.name')">
-
+            <v-text-field v-model="form.name_ar" outlined dense :label="$t('skills.name_ar')">
+            </v-text-field>
+          </v-col>
+          <v-col md="6" cols="12">
+            <label>
+              {{$t('skills.name_en')}}
+            </label>
+            <v-text-field v-model="form.name_en" outlined dense :label="$t('skills.name_en')">
             </v-text-field>
           </v-col>
         </v-row>
@@ -35,7 +41,9 @@ export default {
   data() {
     return {
       form: {
-        name: "",
+        id: null,
+        name_ar: "",
+        name_en: "",
       },
     }
   },
@@ -45,10 +53,7 @@ export default {
     }
   },
   methods: {
-      uploadImage(event) {
-        this.form.image = event
-      },
-      submitFrom() {
+    submitFrom() {
       if (this.$route.query.id) {
         this.editFrom(this.$route.query.id)
       } else {
@@ -57,13 +62,18 @@ export default {
     },
     async getItem(id) {
       const data = await this.$axios.$get(`/dashboard/area-expertises/show/${id}`);
-      this.form = data.data
-
+      const item = data.data || {}
+      this.form = {
+        id: item.id ?? id,
+        name_ar: item.name_ar || '',
+        name_en: item.name_en || '',
+      }
     },
     async editFrom(id) {
       const formData = new FormData()
-      formData.append("id", this.form.id);
-      formData.append("name", this.form.name);
+      formData.append("id", this.form.id || id);
+      formData.append("name[ar]", this.form.name_ar);
+      formData.append("name[en]", this.form.name_en);
 
       const data = await this.$axios.$post(`/dashboard/area-expertises/update?_method=PUT`, formData);
       if (data.statusCode === 201) {
@@ -75,14 +85,15 @@ export default {
     },
     async addForm() {
       const formData = new FormData()
-      formData.append("name", this.form.name_ar);
+      formData.append("name[ar]", this.form.name_ar);
+      formData.append("name[en]", this.form.name_en);
       const data = await this.$axios.$post("/dashboard/area-expertises/store", formData);
-      console.log('data :>> ', data);
       if (data.statusCode === 201) {
         this.$toast.success(data.message, { icon: 'mdi-check' })
         this.form = {
-          name: "",
-          permissions: []
+          id: null,
+          name_ar: "",
+          name_en: "",
         }
       } else {
         this.$toast.error(data.message, { icon: 'mdi-alert-circle' })

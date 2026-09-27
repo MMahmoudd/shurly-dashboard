@@ -14,11 +14,12 @@ export default ({ app, store, route, redirect}) => {
     // console.log('lang', app.i18n.localeProperties.code)
     // console.log('route.path.includes(lang)', route.path.includes(lang))
     // console.log('route.path', route.path)
-    if(!route.path.includes(lang)) {
+    const isLangPrefixed = route.path === `/${lang}` || route.path.startsWith(`/${lang}/`)
+    if (!isLangPrefixed) {
       // console.log('lang+path', '/' + lang + path)
       // const nextRoute = route.path.replaceAll('/' + lang + path)
       const { path, query, hash } = route;
-      const nextPath = path.replace(path, '/' + lang + path);
+      const nextPath = `/${lang}${path}`;
       const nextRoute = { path: nextPath, query, hash };
       // console.log('nextRoute',  nextRoute)
       redirect(nextRoute)

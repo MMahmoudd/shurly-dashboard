@@ -238,6 +238,26 @@ export default {
           ],
         },
         {
+          title: vm.$t('sideMenu.disputes'),
+          action: 'mdi-gavel',
+          items: [
+            {
+              title: vm.$t('sideMenu.disputeReasons'),
+              to: "/disputes/reasons",
+            },
+          ],
+        },
+        {
+          title: vm.$t('sideMenu.webinars'),
+          action: 'mdi-video',
+          items: [
+            {
+              title: vm.$t('sideMenu.webinars'),
+              to: "/webinars",
+            },
+          ],
+        },
+        {
           title: vm.$t('sideMenu.supportRequests'),
           action: 'mdi-face-agent',
           items: [

@@ -3,738 +3,945 @@
     "name": "answers",
     "path": "/answers",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/answers/index.vue",
-    "chunkName": "pages/answers/index"
+    "chunkName": "pages/answers/index",
+    "_name": "_7af8ba3b"
   },
   {
     "name": "index___ar",
     "path": "/ar",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7abeb356"
   },
   {
     "name": "categories",
     "path": "/categories",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/categories/index.vue",
-    "chunkName": "pages/categories/index"
+    "chunkName": "pages/categories/index",
+    "_name": "_2eb3a56c"
   },
   {
     "name": "index___en",
     "path": "/en",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7abeb356"
   },
   {
     "name": "expertises",
     "path": "/expertises",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/expertises/index.vue",
-    "chunkName": "pages/expertises/index"
+    "chunkName": "pages/expertises/index",
+    "_name": "_38de5852"
   },
   {
     "name": "faqs",
     "path": "/faqs",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/faqs/index.vue",
-    "chunkName": "pages/faqs/index"
+    "chunkName": "pages/faqs/index",
+    "_name": "_445c35ed"
   },
   {
     "name": "inspire",
     "path": "/inspire",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/inspire.vue",
-    "chunkName": "pages/inspire"
+    "chunkName": "pages/inspire",
+    "_name": "_1d3c5d9d"
   },
   {
     "name": "settings",
     "path": "/settings",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/index.vue",
-    "chunkName": "pages/settings/index"
+    "chunkName": "pages/settings/index",
+    "_name": "_31afc7f3"
   },
   {
     "name": "skills",
     "path": "/skills",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/skills/index.vue",
-    "chunkName": "pages/skills/index"
+    "chunkName": "pages/skills/index",
+    "_name": "_50e8ca92"
   },
   {
     "name": "slider",
     "path": "/slider",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/slider/index.vue",
-    "chunkName": "pages/slider/index"
+    "chunkName": "pages/slider/index",
+    "_name": "_6bebc871"
   },
   {
     "name": "supportRequests",
     "path": "/supportRequests",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/supportRequests/index.vue",
-    "chunkName": "pages/supportRequests/index"
+    "chunkName": "pages/supportRequests/index",
+    "_name": "_47dc35f9"
+  },
+  {
+    "name": "webinars",
+    "path": "/webinars",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/webinars/index.vue",
+    "chunkName": "pages/webinars/index",
+    "_name": "_2c97dc99"
   },
   {
     "name": "withdrawal-requests",
     "path": "/withdrawal-requests",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/withdrawal-requests/index.vue",
-    "chunkName": "pages/withdrawal-requests/index"
+    "chunkName": "pages/withdrawal-requests/index",
+    "_name": "_427b8662"
   },
   {
     "name": "advisor-approved",
     "path": "/advisor/approved",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/approved.vue",
-    "chunkName": "pages/advisor/approved"
+    "chunkName": "pages/advisor/approved",
+    "_name": "_c81c8a1a"
   },
   {
     "name": "advisor-pending",
     "path": "/advisor/pending",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/pending.vue",
-    "chunkName": "pages/advisor/pending"
+    "chunkName": "pages/advisor/pending",
+    "_name": "_15238f0b"
   },
   {
     "name": "advisor-rejected",
     "path": "/advisor/rejected",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/rejected.vue",
-    "chunkName": "pages/advisor/rejected"
+    "chunkName": "pages/advisor/rejected",
+    "_name": "_2f5d2d3a"
   },
   {
     "name": "answers-form",
     "path": "/answers/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/answers/form.vue",
-    "chunkName": "pages/answers/form"
+    "chunkName": "pages/answers/form",
+    "_name": "_3234676b"
   },
   {
     "name": "answers___ar",
     "path": "/ar/answers",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/answers/index.vue",
-    "chunkName": "pages/answers/index"
+    "chunkName": "pages/answers/index",
+    "_name": "_7af8ba3b"
   },
   {
     "name": "categories___ar",
     "path": "/ar/categories",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/categories/index.vue",
-    "chunkName": "pages/categories/index"
+    "chunkName": "pages/categories/index",
+    "_name": "_2eb3a56c"
   },
   {
     "name": "expertises___ar",
     "path": "/ar/expertises",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/expertises/index.vue",
-    "chunkName": "pages/expertises/index"
+    "chunkName": "pages/expertises/index",
+    "_name": "_38de5852"
   },
   {
     "name": "faqs___ar",
     "path": "/ar/faqs",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/faqs/index.vue",
-    "chunkName": "pages/faqs/index"
+    "chunkName": "pages/faqs/index",
+    "_name": "_445c35ed"
   },
   {
     "name": "inspire___ar",
     "path": "/ar/inspire",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/inspire.vue",
-    "chunkName": "pages/inspire"
+    "chunkName": "pages/inspire",
+    "_name": "_1d3c5d9d"
   },
   {
     "name": "settings___ar",
     "path": "/ar/settings",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/index.vue",
-    "chunkName": "pages/settings/index"
+    "chunkName": "pages/settings/index",
+    "_name": "_31afc7f3"
   },
   {
     "name": "skills___ar",
     "path": "/ar/skills",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/skills/index.vue",
-    "chunkName": "pages/skills/index"
+    "chunkName": "pages/skills/index",
+    "_name": "_50e8ca92"
   },
   {
     "name": "slider___ar",
     "path": "/ar/slider",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/slider/index.vue",
-    "chunkName": "pages/slider/index"
+    "chunkName": "pages/slider/index",
+    "_name": "_6bebc871"
   },
   {
     "name": "supportRequests___ar",
     "path": "/ar/supportRequests",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/supportRequests/index.vue",
-    "chunkName": "pages/supportRequests/index"
+    "chunkName": "pages/supportRequests/index",
+    "_name": "_47dc35f9"
+  },
+  {
+    "name": "webinars___ar",
+    "path": "/ar/webinars",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/webinars/index.vue",
+    "chunkName": "pages/webinars/index",
+    "_name": "_2c97dc99"
   },
   {
     "name": "withdrawal-requests___ar",
     "path": "/ar/withdrawal-requests",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/withdrawal-requests/index.vue",
-    "chunkName": "pages/withdrawal-requests/index"
+    "chunkName": "pages/withdrawal-requests/index",
+    "_name": "_427b8662"
   },
   {
     "name": "auth-login",
     "path": "/auth/login",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/auth/login.vue",
-    "chunkName": "pages/auth/login"
+    "chunkName": "pages/auth/login",
+    "_name": "_0fa6a662"
   },
   {
     "name": "blocks-categories",
     "path": "/blocks/categories",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/categories/index.vue",
-    "chunkName": "pages/blocks/categories/index"
+    "chunkName": "pages/blocks/categories/index",
+    "_name": "_5a5ace4b"
   },
   {
     "name": "blocks-reasons",
     "path": "/blocks/reasons",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/reasons/index.vue",
-    "chunkName": "pages/blocks/reasons/index"
+    "chunkName": "pages/blocks/reasons/index",
+    "_name": "_57fc5376"
   },
   {
     "name": "categories-form",
     "path": "/categories/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/categories/form.vue",
-    "chunkName": "pages/categories/form"
+    "chunkName": "pages/categories/form",
+    "_name": "_50c6d21a"
+  },
+  {
+    "name": "disputes-reasons",
+    "path": "/disputes/reasons",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/disputes/reasons/index.vue",
+    "chunkName": "pages/disputes/reasons/index",
+    "_name": "_2101909f"
   },
   {
     "name": "answers___en",
     "path": "/en/answers",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/answers/index.vue",
-    "chunkName": "pages/answers/index"
+    "chunkName": "pages/answers/index",
+    "_name": "_7af8ba3b"
   },
   {
     "name": "categories___en",
     "path": "/en/categories",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/categories/index.vue",
-    "chunkName": "pages/categories/index"
+    "chunkName": "pages/categories/index",
+    "_name": "_2eb3a56c"
   },
   {
     "name": "expertises___en",
     "path": "/en/expertises",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/expertises/index.vue",
-    "chunkName": "pages/expertises/index"
+    "chunkName": "pages/expertises/index",
+    "_name": "_38de5852"
   },
   {
     "name": "faqs___en",
     "path": "/en/faqs",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/faqs/index.vue",
-    "chunkName": "pages/faqs/index"
+    "chunkName": "pages/faqs/index",
+    "_name": "_445c35ed"
   },
   {
     "name": "inspire___en",
     "path": "/en/inspire",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/inspire.vue",
-    "chunkName": "pages/inspire"
+    "chunkName": "pages/inspire",
+    "_name": "_1d3c5d9d"
   },
   {
     "name": "settings___en",
     "path": "/en/settings",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/index.vue",
-    "chunkName": "pages/settings/index"
+    "chunkName": "pages/settings/index",
+    "_name": "_31afc7f3"
   },
   {
     "name": "skills___en",
     "path": "/en/skills",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/skills/index.vue",
-    "chunkName": "pages/skills/index"
+    "chunkName": "pages/skills/index",
+    "_name": "_50e8ca92"
   },
   {
     "name": "slider___en",
     "path": "/en/slider",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/slider/index.vue",
-    "chunkName": "pages/slider/index"
+    "chunkName": "pages/slider/index",
+    "_name": "_6bebc871"
   },
   {
     "name": "supportRequests___en",
     "path": "/en/supportRequests",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/supportRequests/index.vue",
-    "chunkName": "pages/supportRequests/index"
+    "chunkName": "pages/supportRequests/index",
+    "_name": "_47dc35f9"
+  },
+  {
+    "name": "webinars___en",
+    "path": "/en/webinars",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/webinars/index.vue",
+    "chunkName": "pages/webinars/index",
+    "_name": "_2c97dc99"
   },
   {
     "name": "withdrawal-requests___en",
     "path": "/en/withdrawal-requests",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/withdrawal-requests/index.vue",
-    "chunkName": "pages/withdrawal-requests/index"
+    "chunkName": "pages/withdrawal-requests/index",
+    "_name": "_427b8662"
   },
   {
     "name": "expertises-form",
     "path": "/expertises/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/expertises/form.vue",
-    "chunkName": "pages/expertises/form"
+    "chunkName": "pages/expertises/form",
+    "_name": "_fab1ab18"
   },
   {
     "name": "faqs-form",
     "path": "/faqs/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/faqs/form.vue",
-    "chunkName": "pages/faqs/form"
+    "chunkName": "pages/faqs/form",
+    "_name": "_5179ad79"
   },
   {
     "name": "sessions-approved",
     "path": "/sessions/approved",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/approved.vue",
-    "chunkName": "pages/sessions/approved"
+    "chunkName": "pages/sessions/approved",
+    "_name": "_43c22d28"
   },
   {
     "name": "sessions-pending",
     "path": "/sessions/pending",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/pending.vue",
-    "chunkName": "pages/sessions/pending"
+    "chunkName": "pages/sessions/pending",
+    "_name": "_27ca2d72"
   },
   {
     "name": "sessions-rejected",
     "path": "/sessions/rejected",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/rejected.vue",
-    "chunkName": "pages/sessions/rejected"
+    "chunkName": "pages/sessions/rejected",
+    "_name": "_718a5bb3"
   },
   {
     "name": "settings-advisor",
     "path": "/settings/advisor",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/advisor.vue",
-    "chunkName": "pages/settings/advisor"
+    "chunkName": "pages/settings/advisor",
+    "_name": "_757cccbe"
   },
   {
     "name": "settings-general",
     "path": "/settings/general",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/general.vue",
-    "chunkName": "pages/settings/general"
+    "chunkName": "pages/settings/general",
+    "_name": "_afbf226e"
   },
   {
     "name": "settings-notifications",
     "path": "/settings/notifications",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/notifications.vue",
-    "chunkName": "pages/settings/notifications"
+    "chunkName": "pages/settings/notifications",
+    "_name": "_7755a009"
   },
   {
     "name": "settings-payout",
     "path": "/settings/payout",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/payout.vue",
-    "chunkName": "pages/settings/payout"
+    "chunkName": "pages/settings/payout",
+    "_name": "_80384e56"
   },
   {
     "name": "settings-privacy",
     "path": "/settings/privacy",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/privacy.vue",
-    "chunkName": "pages/settings/privacy"
+    "chunkName": "pages/settings/privacy",
+    "_name": "_654b8d2e"
   },
   {
     "name": "settings-socialMedia",
     "path": "/settings/socialMedia",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/socialMedia.vue",
-    "chunkName": "pages/settings/socialMedia"
+    "chunkName": "pages/settings/socialMedia",
+    "_name": "_74b58350"
   },
   {
     "name": "settings-terms",
     "path": "/settings/terms",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/terms.vue",
-    "chunkName": "pages/settings/terms"
+    "chunkName": "pages/settings/terms",
+    "_name": "_48a4f3b0"
   },
   {
     "name": "skills-form",
     "path": "/skills/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/skills/form.vue",
-    "chunkName": "pages/skills/form"
+    "chunkName": "pages/skills/form",
+    "_name": "_62657034"
   },
   {
     "name": "slider-form",
     "path": "/slider/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/slider/form.vue",
-    "chunkName": "pages/slider/form"
+    "chunkName": "pages/slider/form",
+    "_name": "_002bba75"
   },
   {
     "name": "users-admins",
     "path": "/users/admins",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/admins/index.vue",
-    "chunkName": "pages/users/admins/index"
+    "chunkName": "pages/users/admins/index",
+    "_name": "_14ce5f8a"
   },
   {
     "name": "users-roles",
     "path": "/users/roles",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/roles/index.vue",
-    "chunkName": "pages/users/roles/index"
+    "chunkName": "pages/users/roles/index",
+    "_name": "_d1ddba08"
   },
   {
     "name": "users-users",
     "path": "/users/users",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/users/index.vue",
-    "chunkName": "pages/users/users/index"
+    "chunkName": "pages/users/users/index",
+    "_name": "_0a8ac087"
+  },
+  {
+    "name": "webinars-form",
+    "path": "/webinars/form",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/webinars/form.vue",
+    "chunkName": "pages/webinars/form",
+    "_name": "_45cefd66"
   },
   {
     "name": "advisor-approved___ar",
     "path": "/ar/advisor/approved",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/approved.vue",
-    "chunkName": "pages/advisor/approved"
+    "chunkName": "pages/advisor/approved",
+    "_name": "_c81c8a1a"
   },
   {
     "name": "advisor-pending___ar",
     "path": "/ar/advisor/pending",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/pending.vue",
-    "chunkName": "pages/advisor/pending"
+    "chunkName": "pages/advisor/pending",
+    "_name": "_15238f0b"
   },
   {
     "name": "advisor-rejected___ar",
     "path": "/ar/advisor/rejected",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/rejected.vue",
-    "chunkName": "pages/advisor/rejected"
+    "chunkName": "pages/advisor/rejected",
+    "_name": "_2f5d2d3a"
   },
   {
     "name": "answers-form___ar",
     "path": "/ar/answers/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/answers/form.vue",
-    "chunkName": "pages/answers/form"
+    "chunkName": "pages/answers/form",
+    "_name": "_3234676b"
   },
   {
     "name": "auth-login___ar",
     "path": "/ar/auth/login",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/auth/login.vue",
-    "chunkName": "pages/auth/login"
+    "chunkName": "pages/auth/login",
+    "_name": "_0fa6a662"
   },
   {
     "name": "blocks-categories___ar",
     "path": "/ar/blocks/categories",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/categories/index.vue",
-    "chunkName": "pages/blocks/categories/index"
+    "chunkName": "pages/blocks/categories/index",
+    "_name": "_5a5ace4b"
   },
   {
     "name": "blocks-reasons___ar",
     "path": "/ar/blocks/reasons",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/reasons/index.vue",
-    "chunkName": "pages/blocks/reasons/index"
+    "chunkName": "pages/blocks/reasons/index",
+    "_name": "_57fc5376"
   },
   {
     "name": "categories-form___ar",
     "path": "/ar/categories/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/categories/form.vue",
-    "chunkName": "pages/categories/form"
+    "chunkName": "pages/categories/form",
+    "_name": "_50c6d21a"
+  },
+  {
+    "name": "disputes-reasons___ar",
+    "path": "/ar/disputes/reasons",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/disputes/reasons/index.vue",
+    "chunkName": "pages/disputes/reasons/index",
+    "_name": "_2101909f"
   },
   {
     "name": "expertises-form___ar",
     "path": "/ar/expertises/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/expertises/form.vue",
-    "chunkName": "pages/expertises/form"
+    "chunkName": "pages/expertises/form",
+    "_name": "_fab1ab18"
   },
   {
     "name": "faqs-form___ar",
     "path": "/ar/faqs/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/faqs/form.vue",
-    "chunkName": "pages/faqs/form"
+    "chunkName": "pages/faqs/form",
+    "_name": "_5179ad79"
   },
   {
     "name": "sessions-approved___ar",
     "path": "/ar/sessions/approved",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/approved.vue",
-    "chunkName": "pages/sessions/approved"
+    "chunkName": "pages/sessions/approved",
+    "_name": "_43c22d28"
   },
   {
     "name": "sessions-pending___ar",
     "path": "/ar/sessions/pending",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/pending.vue",
-    "chunkName": "pages/sessions/pending"
+    "chunkName": "pages/sessions/pending",
+    "_name": "_27ca2d72"
   },
   {
     "name": "sessions-rejected___ar",
     "path": "/ar/sessions/rejected",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/rejected.vue",
-    "chunkName": "pages/sessions/rejected"
+    "chunkName": "pages/sessions/rejected",
+    "_name": "_718a5bb3"
   },
   {
     "name": "settings-advisor___ar",
     "path": "/ar/settings/advisor",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/advisor.vue",
-    "chunkName": "pages/settings/advisor"
+    "chunkName": "pages/settings/advisor",
+    "_name": "_757cccbe"
   },
   {
     "name": "settings-general___ar",
     "path": "/ar/settings/general",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/general.vue",
-    "chunkName": "pages/settings/general"
+    "chunkName": "pages/settings/general",
+    "_name": "_afbf226e"
   },
   {
     "name": "settings-notifications___ar",
     "path": "/ar/settings/notifications",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/notifications.vue",
-    "chunkName": "pages/settings/notifications"
+    "chunkName": "pages/settings/notifications",
+    "_name": "_7755a009"
   },
   {
     "name": "settings-payout___ar",
     "path": "/ar/settings/payout",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/payout.vue",
-    "chunkName": "pages/settings/payout"
+    "chunkName": "pages/settings/payout",
+    "_name": "_80384e56"
   },
   {
     "name": "settings-privacy___ar",
     "path": "/ar/settings/privacy",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/privacy.vue",
-    "chunkName": "pages/settings/privacy"
+    "chunkName": "pages/settings/privacy",
+    "_name": "_654b8d2e"
   },
   {
     "name": "settings-socialMedia___ar",
     "path": "/ar/settings/socialMedia",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/socialMedia.vue",
-    "chunkName": "pages/settings/socialMedia"
+    "chunkName": "pages/settings/socialMedia",
+    "_name": "_74b58350"
   },
   {
     "name": "settings-terms___ar",
     "path": "/ar/settings/terms",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/terms.vue",
-    "chunkName": "pages/settings/terms"
+    "chunkName": "pages/settings/terms",
+    "_name": "_48a4f3b0"
   },
   {
     "name": "skills-form___ar",
     "path": "/ar/skills/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/skills/form.vue",
-    "chunkName": "pages/skills/form"
+    "chunkName": "pages/skills/form",
+    "_name": "_62657034"
   },
   {
     "name": "slider-form___ar",
     "path": "/ar/slider/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/slider/form.vue",
-    "chunkName": "pages/slider/form"
+    "chunkName": "pages/slider/form",
+    "_name": "_002bba75"
   },
   {
     "name": "users-admins___ar",
     "path": "/ar/users/admins",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/admins/index.vue",
-    "chunkName": "pages/users/admins/index"
+    "chunkName": "pages/users/admins/index",
+    "_name": "_14ce5f8a"
   },
   {
     "name": "users-roles___ar",
     "path": "/ar/users/roles",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/roles/index.vue",
-    "chunkName": "pages/users/roles/index"
+    "chunkName": "pages/users/roles/index",
+    "_name": "_d1ddba08"
   },
   {
     "name": "users-users___ar",
     "path": "/ar/users/users",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/users/index.vue",
-    "chunkName": "pages/users/users/index"
+    "chunkName": "pages/users/users/index",
+    "_name": "_0a8ac087"
+  },
+  {
+    "name": "webinars-form___ar",
+    "path": "/ar/webinars/form",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/webinars/form.vue",
+    "chunkName": "pages/webinars/form",
+    "_name": "_45cefd66"
   },
   {
     "name": "blocks-categories-form",
     "path": "/blocks/categories/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/categories/form.vue",
-    "chunkName": "pages/blocks/categories/form"
+    "chunkName": "pages/blocks/categories/form",
+    "_name": "_7337915b"
   },
   {
     "name": "blocks-reasons-form",
     "path": "/blocks/reasons/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/reasons/form.vue",
-    "chunkName": "pages/blocks/reasons/form"
+    "chunkName": "pages/blocks/reasons/form",
+    "_name": "_100b3ad0"
+  },
+  {
+    "name": "disputes-reasons-form",
+    "path": "/disputes/reasons/form",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/disputes/reasons/form.vue",
+    "chunkName": "pages/disputes/reasons/form",
+    "_name": "_0e453487"
   },
   {
     "name": "advisor-approved___en",
     "path": "/en/advisor/approved",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/approved.vue",
-    "chunkName": "pages/advisor/approved"
+    "chunkName": "pages/advisor/approved",
+    "_name": "_c81c8a1a"
   },
   {
     "name": "advisor-pending___en",
     "path": "/en/advisor/pending",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/pending.vue",
-    "chunkName": "pages/advisor/pending"
+    "chunkName": "pages/advisor/pending",
+    "_name": "_15238f0b"
   },
   {
     "name": "advisor-rejected___en",
     "path": "/en/advisor/rejected",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/advisor/rejected.vue",
-    "chunkName": "pages/advisor/rejected"
+    "chunkName": "pages/advisor/rejected",
+    "_name": "_2f5d2d3a"
   },
   {
     "name": "answers-form___en",
     "path": "/en/answers/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/answers/form.vue",
-    "chunkName": "pages/answers/form"
+    "chunkName": "pages/answers/form",
+    "_name": "_3234676b"
   },
   {
     "name": "auth-login___en",
     "path": "/en/auth/login",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/auth/login.vue",
-    "chunkName": "pages/auth/login"
+    "chunkName": "pages/auth/login",
+    "_name": "_0fa6a662"
   },
   {
     "name": "blocks-categories___en",
     "path": "/en/blocks/categories",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/categories/index.vue",
-    "chunkName": "pages/blocks/categories/index"
+    "chunkName": "pages/blocks/categories/index",
+    "_name": "_5a5ace4b"
   },
   {
     "name": "blocks-reasons___en",
     "path": "/en/blocks/reasons",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/reasons/index.vue",
-    "chunkName": "pages/blocks/reasons/index"
+    "chunkName": "pages/blocks/reasons/index",
+    "_name": "_57fc5376"
   },
   {
     "name": "categories-form___en",
     "path": "/en/categories/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/categories/form.vue",
-    "chunkName": "pages/categories/form"
+    "chunkName": "pages/categories/form",
+    "_name": "_50c6d21a"
+  },
+  {
+    "name": "disputes-reasons___en",
+    "path": "/en/disputes/reasons",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/disputes/reasons/index.vue",
+    "chunkName": "pages/disputes/reasons/index",
+    "_name": "_2101909f"
   },
   {
     "name": "expertises-form___en",
     "path": "/en/expertises/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/expertises/form.vue",
-    "chunkName": "pages/expertises/form"
+    "chunkName": "pages/expertises/form",
+    "_name": "_fab1ab18"
   },
   {
     "name": "faqs-form___en",
     "path": "/en/faqs/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/faqs/form.vue",
-    "chunkName": "pages/faqs/form"
+    "chunkName": "pages/faqs/form",
+    "_name": "_5179ad79"
   },
   {
     "name": "sessions-approved___en",
     "path": "/en/sessions/approved",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/approved.vue",
-    "chunkName": "pages/sessions/approved"
+    "chunkName": "pages/sessions/approved",
+    "_name": "_43c22d28"
   },
   {
     "name": "sessions-pending___en",
     "path": "/en/sessions/pending",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/pending.vue",
-    "chunkName": "pages/sessions/pending"
+    "chunkName": "pages/sessions/pending",
+    "_name": "_27ca2d72"
   },
   {
     "name": "sessions-rejected___en",
     "path": "/en/sessions/rejected",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/sessions/rejected.vue",
-    "chunkName": "pages/sessions/rejected"
+    "chunkName": "pages/sessions/rejected",
+    "_name": "_718a5bb3"
   },
   {
     "name": "settings-advisor___en",
     "path": "/en/settings/advisor",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/advisor.vue",
-    "chunkName": "pages/settings/advisor"
+    "chunkName": "pages/settings/advisor",
+    "_name": "_757cccbe"
   },
   {
     "name": "settings-general___en",
     "path": "/en/settings/general",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/general.vue",
-    "chunkName": "pages/settings/general"
+    "chunkName": "pages/settings/general",
+    "_name": "_afbf226e"
   },
   {
     "name": "settings-notifications___en",
     "path": "/en/settings/notifications",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/notifications.vue",
-    "chunkName": "pages/settings/notifications"
+    "chunkName": "pages/settings/notifications",
+    "_name": "_7755a009"
   },
   {
     "name": "settings-payout___en",
     "path": "/en/settings/payout",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/payout.vue",
-    "chunkName": "pages/settings/payout"
+    "chunkName": "pages/settings/payout",
+    "_name": "_80384e56"
   },
   {
     "name": "settings-privacy___en",
     "path": "/en/settings/privacy",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/privacy.vue",
-    "chunkName": "pages/settings/privacy"
+    "chunkName": "pages/settings/privacy",
+    "_name": "_654b8d2e"
   },
   {
     "name": "settings-socialMedia___en",
     "path": "/en/settings/socialMedia",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/socialMedia.vue",
-    "chunkName": "pages/settings/socialMedia"
+    "chunkName": "pages/settings/socialMedia",
+    "_name": "_74b58350"
   },
   {
     "name": "settings-terms___en",
     "path": "/en/settings/terms",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/settings/terms.vue",
-    "chunkName": "pages/settings/terms"
+    "chunkName": "pages/settings/terms",
+    "_name": "_48a4f3b0"
   },
   {
     "name": "skills-form___en",
     "path": "/en/skills/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/skills/form.vue",
-    "chunkName": "pages/skills/form"
+    "chunkName": "pages/skills/form",
+    "_name": "_62657034"
   },
   {
     "name": "slider-form___en",
     "path": "/en/slider/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/slider/form.vue",
-    "chunkName": "pages/slider/form"
+    "chunkName": "pages/slider/form",
+    "_name": "_002bba75"
   },
   {
     "name": "users-admins___en",
     "path": "/en/users/admins",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/admins/index.vue",
-    "chunkName": "pages/users/admins/index"
+    "chunkName": "pages/users/admins/index",
+    "_name": "_14ce5f8a"
   },
   {
     "name": "users-roles___en",
     "path": "/en/users/roles",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/roles/index.vue",
-    "chunkName": "pages/users/roles/index"
+    "chunkName": "pages/users/roles/index",
+    "_name": "_d1ddba08"
   },
   {
     "name": "users-users___en",
     "path": "/en/users/users",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/users/index.vue",
-    "chunkName": "pages/users/users/index"
+    "chunkName": "pages/users/users/index",
+    "_name": "_0a8ac087"
+  },
+  {
+    "name": "webinars-form___en",
+    "path": "/en/webinars/form",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/webinars/form.vue",
+    "chunkName": "pages/webinars/form",
+    "_name": "_45cefd66"
   },
   {
     "name": "users-admins-form",
     "path": "/users/admins/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/admins/form.vue",
-    "chunkName": "pages/users/admins/form"
+    "chunkName": "pages/users/admins/form",
+    "_name": "_7839916b"
   },
   {
     "name": "users-roles-form",
     "path": "/users/roles/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/roles/form.vue",
-    "chunkName": "pages/users/roles/form"
+    "chunkName": "pages/users/roles/form",
+    "_name": "_a2093aec"
   },
   {
     "name": "users-users-form",
     "path": "/users/users/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/users/form.vue",
-    "chunkName": "pages/users/users/form"
+    "chunkName": "pages/users/users/form",
+    "_name": "_6862679f"
   },
   {
     "name": "blocks-categories-form___ar",
     "path": "/ar/blocks/categories/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/categories/form.vue",
-    "chunkName": "pages/blocks/categories/form"
+    "chunkName": "pages/blocks/categories/form",
+    "_name": "_7337915b"
   },
   {
     "name": "blocks-reasons-form___ar",
     "path": "/ar/blocks/reasons/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/reasons/form.vue",
-    "chunkName": "pages/blocks/reasons/form"
+    "chunkName": "pages/blocks/reasons/form",
+    "_name": "_100b3ad0"
+  },
+  {
+    "name": "disputes-reasons-form___ar",
+    "path": "/ar/disputes/reasons/form",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/disputes/reasons/form.vue",
+    "chunkName": "pages/disputes/reasons/form",
+    "_name": "_0e453487"
   },
   {
     "name": "users-admins-form___ar",
     "path": "/ar/users/admins/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/admins/form.vue",
-    "chunkName": "pages/users/admins/form"
+    "chunkName": "pages/users/admins/form",
+    "_name": "_7839916b"
   },
   {
     "name": "users-roles-form___ar",
     "path": "/ar/users/roles/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/roles/form.vue",
-    "chunkName": "pages/users/roles/form"
+    "chunkName": "pages/users/roles/form",
+    "_name": "_a2093aec"
   },
   {
     "name": "users-users-form___ar",
     "path": "/ar/users/users/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/users/form.vue",
-    "chunkName": "pages/users/users/form"
+    "chunkName": "pages/users/users/form",
+    "_name": "_6862679f"
   },
   {
     "name": "blocks-categories-form___en",
     "path": "/en/blocks/categories/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/categories/form.vue",
-    "chunkName": "pages/blocks/categories/form"
+    "chunkName": "pages/blocks/categories/form",
+    "_name": "_7337915b"
   },
   {
     "name": "blocks-reasons-form___en",
     "path": "/en/blocks/reasons/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/blocks/reasons/form.vue",
-    "chunkName": "pages/blocks/reasons/form"
+    "chunkName": "pages/blocks/reasons/form",
+    "_name": "_100b3ad0"
+  },
+  {
+    "name": "disputes-reasons-form___en",
+    "path": "/en/disputes/reasons/form",
+    "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/disputes/reasons/form.vue",
+    "chunkName": "pages/disputes/reasons/form",
+    "_name": "_0e453487"
   },
   {
     "name": "users-admins-form___en",
     "path": "/en/users/admins/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/admins/form.vue",
-    "chunkName": "pages/users/admins/form"
+    "chunkName": "pages/users/admins/form",
+    "_name": "_7839916b"
   },
   {
     "name": "users-roles-form___en",
     "path": "/en/users/roles/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/roles/form.vue",
-    "chunkName": "pages/users/roles/form"
+    "chunkName": "pages/users/roles/form",
+    "_name": "_a2093aec"
   },
   {
     "name": "users-users-form___en",
     "path": "/en/users/users/form",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/users/users/form.vue",
-    "chunkName": "pages/users/users/form"
+    "chunkName": "pages/users/users/form",
+    "_name": "_6862679f"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/mahmoud/Documents/Projects/Fulltime/rakam/shurly/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7abeb356"
   }
 ]

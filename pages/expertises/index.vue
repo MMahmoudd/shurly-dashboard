@@ -26,9 +26,6 @@
     :items-per-page="100"
     class="elevation-1"
   >
-  <template v-slot:[`item.name`]="{ item }">
-    {{item.name}}
-  </template>
   <template v-slot:[`item.actions`]="{ item }">
     <v-btn icon outlined color="success" :to="`/expertises/form?id=${item.id}`">
       <v-icon>
@@ -73,10 +70,11 @@
         headers: [
           { text: vm.$t('roles.id'), value: 'id' },
           {
-            text: vm.$t('roles.name'),
+            text: vm.$t('skills.name_ar'),
             sortable: false,
-            value: 'name',
+            value: 'name_ar',
           },
+          { text: vm.$t('skills.name_en'), value: 'name_en' },
           { text: vm.$t('roles.actions'), value: 'actions' },
         ],
         roles: [],

@@ -14,6 +14,7 @@ const _31afc7f3 = () => interopDefault(import('../pages/settings/index.vue' /* w
 const _50e8ca92 = () => interopDefault(import('../pages/skills/index.vue' /* webpackChunkName: "pages/skills/index" */))
 const _6bebc871 = () => interopDefault(import('../pages/slider/index.vue' /* webpackChunkName: "pages/slider/index" */))
 const _47dc35f9 = () => interopDefault(import('../pages/supportRequests/index.vue' /* webpackChunkName: "pages/supportRequests/index" */))
+const _2c97dc99 = () => interopDefault(import('../pages/webinars/index.vue' /* webpackChunkName: "pages/webinars/index" */))
 const _427b8662 = () => interopDefault(import('../pages/withdrawal-requests/index.vue' /* webpackChunkName: "pages/withdrawal-requests/index" */))
 const _c81c8a1a = () => interopDefault(import('../pages/advisor/approved.vue' /* webpackChunkName: "pages/advisor/approved" */))
 const _15238f0b = () => interopDefault(import('../pages/advisor/pending.vue' /* webpackChunkName: "pages/advisor/pending" */))
@@ -23,6 +24,7 @@ const _0fa6a662 = () => interopDefault(import('../pages/auth/login.vue' /* webpa
 const _5a5ace4b = () => interopDefault(import('../pages/blocks/categories/index.vue' /* webpackChunkName: "pages/blocks/categories/index" */))
 const _57fc5376 = () => interopDefault(import('../pages/blocks/reasons/index.vue' /* webpackChunkName: "pages/blocks/reasons/index" */))
 const _50c6d21a = () => interopDefault(import('../pages/categories/form.vue' /* webpackChunkName: "pages/categories/form" */))
+const _2101909f = () => interopDefault(import('../pages/disputes/reasons/index.vue' /* webpackChunkName: "pages/disputes/reasons/index" */))
 const _fab1ab18 = () => interopDefault(import('../pages/expertises/form.vue' /* webpackChunkName: "pages/expertises/form" */))
 const _5179ad79 = () => interopDefault(import('../pages/faqs/form.vue' /* webpackChunkName: "pages/faqs/form" */))
 const _43c22d28 = () => interopDefault(import('../pages/sessions/approved.vue' /* webpackChunkName: "pages/sessions/approved" */))
@@ -40,8 +42,10 @@ const _002bba75 = () => interopDefault(import('../pages/slider/form.vue' /* webp
 const _14ce5f8a = () => interopDefault(import('../pages/users/admins/index.vue' /* webpackChunkName: "pages/users/admins/index" */))
 const _d1ddba08 = () => interopDefault(import('../pages/users/roles/index.vue' /* webpackChunkName: "pages/users/roles/index" */))
 const _0a8ac087 = () => interopDefault(import('../pages/users/users/index.vue' /* webpackChunkName: "pages/users/users/index" */))
+const _45cefd66 = () => interopDefault(import('../pages/webinars/form.vue' /* webpackChunkName: "pages/webinars/form" */))
 const _7337915b = () => interopDefault(import('../pages/blocks/categories/form.vue' /* webpackChunkName: "pages/blocks/categories/form" */))
 const _100b3ad0 = () => interopDefault(import('../pages/blocks/reasons/form.vue' /* webpackChunkName: "pages/blocks/reasons/form" */))
+const _0e453487 = () => interopDefault(import('../pages/disputes/reasons/form.vue' /* webpackChunkName: "pages/disputes/reasons/form" */))
 const _7839916b = () => interopDefault(import('../pages/users/admins/form.vue' /* webpackChunkName: "pages/users/admins/form" */))
 const _a2093aec = () => interopDefault(import('../pages/users/roles/form.vue' /* webpackChunkName: "pages/users/roles/form" */))
 const _6862679f = () => interopDefault(import('../pages/users/users/form.vue' /* webpackChunkName: "pages/users/users/form" */))
@@ -102,6 +106,10 @@ export const routerOptions = {
     component: _47dc35f9,
     name: "supportRequests"
   }, {
+    path: "/webinars",
+    component: _2c97dc99,
+    name: "webinars"
+  }, {
     path: "/withdrawal-requests",
     component: _427b8662,
     name: "withdrawal-requests"
@@ -158,6 +166,10 @@ export const routerOptions = {
     component: _47dc35f9,
     name: "supportRequests___ar"
   }, {
+    path: "/ar/webinars",
+    component: _2c97dc99,
+    name: "webinars___ar"
+  }, {
     path: "/ar/withdrawal-requests",
     component: _427b8662,
     name: "withdrawal-requests___ar"
@@ -177,6 +189,10 @@ export const routerOptions = {
     path: "/categories/form",
     component: _50c6d21a,
     name: "categories-form"
+  }, {
+    path: "/disputes/reasons",
+    component: _2101909f,
+    name: "disputes-reasons"
   }, {
     path: "/en/answers",
     component: _7af8ba3b,
@@ -213,6 +229,10 @@ export const routerOptions = {
     path: "/en/supportRequests",
     component: _47dc35f9,
     name: "supportRequests___en"
+  }, {
+    path: "/en/webinars",
+    component: _2c97dc99,
+    name: "webinars___en"
   }, {
     path: "/en/withdrawal-requests",
     component: _427b8662,
@@ -286,6 +306,10 @@ export const routerOptions = {
     component: _0a8ac087,
     name: "users-users"
   }, {
+    path: "/webinars/form",
+    component: _45cefd66,
+    name: "webinars-form"
+  }, {
     path: "/ar/advisor/approved",
     component: _c81c8a1a,
     name: "advisor-approved___ar"
@@ -317,6 +341,10 @@ export const routerOptions = {
     path: "/ar/categories/form",
     component: _50c6d21a,
     name: "categories-form___ar"
+  }, {
+    path: "/ar/disputes/reasons",
+    component: _2101909f,
+    name: "disputes-reasons___ar"
   }, {
     path: "/ar/expertises/form",
     component: _fab1ab18,
@@ -386,6 +414,10 @@ export const routerOptions = {
     component: _0a8ac087,
     name: "users-users___ar"
   }, {
+    path: "/ar/webinars/form",
+    component: _45cefd66,
+    name: "webinars-form___ar"
+  }, {
     path: "/blocks/categories/form",
     component: _7337915b,
     name: "blocks-categories-form"
@@ -393,6 +425,10 @@ export const routerOptions = {
     path: "/blocks/reasons/form",
     component: _100b3ad0,
     name: "blocks-reasons-form"
+  }, {
+    path: "/disputes/reasons/form",
+    component: _0e453487,
+    name: "disputes-reasons-form"
   }, {
     path: "/en/advisor/approved",
     component: _c81c8a1a,
@@ -425,6 +461,10 @@ export const routerOptions = {
     path: "/en/categories/form",
     component: _50c6d21a,
     name: "categories-form___en"
+  }, {
+    path: "/en/disputes/reasons",
+    component: _2101909f,
+    name: "disputes-reasons___en"
   }, {
     path: "/en/expertises/form",
     component: _fab1ab18,
@@ -494,6 +534,10 @@ export const routerOptions = {
     component: _0a8ac087,
     name: "users-users___en"
   }, {
+    path: "/en/webinars/form",
+    component: _45cefd66,
+    name: "webinars-form___en"
+  }, {
     path: "/users/admins/form",
     component: _7839916b,
     name: "users-admins-form"
@@ -514,6 +558,10 @@ export const routerOptions = {
     component: _100b3ad0,
     name: "blocks-reasons-form___ar"
   }, {
+    path: "/ar/disputes/reasons/form",
+    component: _0e453487,
+    name: "disputes-reasons-form___ar"
+  }, {
     path: "/ar/users/admins/form",
     component: _7839916b,
     name: "users-admins-form___ar"
@@ -533,6 +581,10 @@ export const routerOptions = {
     path: "/en/blocks/reasons/form",
     component: _100b3ad0,
     name: "blocks-reasons-form___en"
+  }, {
+    path: "/en/disputes/reasons/form",
+    component: _0e453487,
+    name: "disputes-reasons-form___en"
   }, {
     path: "/en/users/admins/form",
     component: _7839916b,
